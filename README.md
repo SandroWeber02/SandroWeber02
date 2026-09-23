@@ -39,18 +39,6 @@ Desenvolvo aplicações web com foco em **back-end, APIs REST e integrações**.
 
 ## GitHub
 
-<p align="center">
-  <img height="170" src="./profile/stats.svg" alt="Estatísticas públicas do GitHub de Sandro Weber" />
-  <img height="170" src="./profile/top-langs.svg" alt="Linguagens presentes nos repositórios públicos de Sandro Weber" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
-    <img src="./profile/github-snake.svg" width="100%" alt="Animação da cobrinha percorrendo minhas contribuições no GitHub" />
-  </picture>
-</p>
 
 <p align="center">
   <sub>Aberto a projetos, colaboração e troca de conhecimento.</sub>
