@@ -1,6 +1,5 @@
 <div align="center">
 
-aaaa
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2BD9,50:8B5CF6,100:22D3EE&height=180&section=header&text=Sandro%20Weber&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Desenvolvedor%20%7C%20Tecnologia%20%7C%20Criatividade&descAlignY=58&animation=fadeIn" alt="Cabeçalho com o nome Sandro Weber" />
 
 #test comando git diff  
