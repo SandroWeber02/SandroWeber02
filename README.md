@@ -1,18 +1,16 @@
 # Olá, eu sou o Sandro 👋
 
-aaaa
 ### Desenvolvedor Full Stack
 
-#test comando git diff  
-Construo aplicações web com foco em back-end, APIs bem estruturadas e interfaces modernas. Minha principal stack é o ecossistema **JavaScript/TypeScript**, com **Node.js**, **Express** e **NestJS**.
-
-Atualmente, também trabalho e estudo tecnologias de front-end, bancos de dados relacionais e conteinerização.
+Desenvolvo aplicações web com foco em **back-end, APIs REST e integrações**. Minha principal stack é **JavaScript/TypeScript**, com **Node.js, Express e NestJS** no back-end e **React e Next.js** no front-end.
 
 <p>
   <a href="https://github.com/SandroWeber02">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SandroWeber02&style=flat-square&color=3178C6&label=visualiza%C3%A7%C3%B5es" alt="Visualizações do perfil" />
+  <a href="https://www.linkedin.com/in/sandro-weber-b0b538220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -22,40 +20,38 @@ Atualmente, também trabalho e estudo tecnologias de front-end, bancos de dados 
 **Back-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js&theme=dark" alt="Node.js, Express, NestJS, TypeScript e JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js&amp;theme=dark" alt="Node.js, Express, NestJS, TypeScript e JavaScript" />
 </p>
 
 **Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="React, Next.js, HTML e CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&amp;theme=dark" alt="React, Next.js, Tailwind CSS, HTML e CSS" />
 </p>
 
-**Banco de dados e infraestrutura**
+**Banco de dados e ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github&theme=dark" alt="PostgreSQL, Docker, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,git,linux&amp;theme=dark" alt="PostgreSQL, Prisma, Supabase, Docker, Git e Linux" />
 </p>
 
 ---
-
-## No que estou focado
-
-- Desenvolvimento de APIs REST com Node.js, Express e NestJS.
-- Aplicações full stack com TypeScript, React e Next.js.
-- Modelagem e persistência de dados com PostgreSQL.
-- Ambientes reproduzíveis e deploys mais consistentes com Docker.
-- Código limpo, organizado e simples de manter.
 
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SandroWeber02&show_icons=true&hide_border=true&bg_color=00000000&title_color=3178C6&icon_color=3178C6&text_color=808080&locale=pt-br" alt="Estatísticas do GitHub de Sandro" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroWeber02&layout=compact&hide_border=true&bg_color=00000000&title_color=3178C6&text_color=808080&locale=pt-br" alt="Linguagens mais utilizadas por Sandro" />
+  <img height="170" src="./profile/stats.svg" alt="Estatísticas públicas do GitHub de Sandro Weber" />
+  <img height="170" src="./profile/top-langs.svg" alt="Linguagens presentes nos repositórios públicos de Sandro Weber" />
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+    <img src="./profile/github-snake.svg" width="100%" alt="Animação da cobrinha percorrendo minhas contribuições no GitHub" />
+  </picture>
+</p>
 
 <p align="center">
-  <sub>Aberto a novos projetos, colaboração e troca de conhecimento.</sub>
+  <sub>Aberto a projetos, colaboração e troca de conhecimento.</sub>
 </p>
